@@ -1,0 +1,495 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Feats in Lords of Madness &ndash; D&amp;D Tools</title>
+  <link href="../../static/favicon.ico" rel="SHORTCUT ICON"/>
+  <meta name="description" content="Complete list of all D&amp;D spells, rulebooks, feats, classes and more!"/>
+  <meta name="keywords" content="D&amp;D, Spells, Feats, Classes"/>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  
+  <link rel="stylesheet" type="text/css" href="../../static/css/style.css" title="style"/>
+  <link rel="stylesheet" type="text/css" href="../../static/css/chosen.css" title="style"/>
+  <script type="text/javascript" src="../../static/js/jquery-1.7.min.js"></script>
+  <script type="text/javascript" src="../../static/js/jquery.cookie.js"></script>
+  <script type="text/javascript" src="../../static/js/chosen.jquery.min.js"></script>
+  
+  
+  <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+  <link rel="prev" href="index.html" />
+<link rel="next" href="index.html?page=3" />
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-57902960-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  
+  
+  <!-- 
+  <script type="text/javascript">
+      (function() {
+          var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+          t.parentNode.insertBefore(s, t);
+      })();
+  </script>
+  -->
+  
+</head>
+
+<body>
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="main">
+    <div id="header">
+        <div id="logo">
+            <div id="logo_text">
+                <h1>
+                    <a href="../../index.html">D&amp;D<span class="logo_colour">tools</span></a>
+                </h1>
+
+                <h2>Feats. Spells. Prestige Classes. And more!</h2>
+            </div>
+            
+<div id="google-search-holder">
+  <div id="cse-search-form" style="width: 100%">
+  <div dir="ltr" class="gsc-control-searchbox-only gsc-control-searchbox-only-en">
+  <form accept-charset="utf-8" action="http://dndtools.pw/lookup/" method="get" class="gsc-search-box">
+  <input type='hidden' name='csrfmiddlewaretoken' value='5Kyf6v7M2kUmsQUGHfpSihh8BBoE6g13' />
+  <table class="gsc-search-box" cellpadding="0" cellspacing="0">
+  <tbody><tr><td class="gsc-input">
+  <input style="outline: medium none; no-repeat scroll left center rgb(255, 255, 255);" spellcheck="false" dir="ltr" id="gsc-i-id1" title="search" value="" name="q" class=" gsc-input " size="40" autocomplete="off" type="text">
+
+  <input id="bgresponse" name="bgresponse" type="hidden">
+  </td>
+  <td class="gsc-search-button"><input title="search" class="gsc-search-button" value="Search" type="button"></td>
+  <td class="gsc-clear-button"><div title="clear results" class="gsc-clear-button">&nbsp;</div></td></tr></tbody></table>
+  <table class="gsc-branding" cellpadding="0" cellspacing="0"><tbody><tr><td class="gsc-branding-user-defined">
+  </td><td class="gsc-branding-text"></td><td class="gsc-branding-img"></td></tr></tbody></table></form></div></div>
+</div>
+
+            <!--
+                <div id="google-search-holder">
+                    <div id="cse-search-form" style="width: 100%">Loading</div>
+                    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+                    <script type="text/javascript">
+                        google.load('search', '1', {language: 'en'});
+                        google.setOnLoadCallback(function () {
+                            var customSearchControl = new google.search.CustomSearchControl('002885471862917445400:-ybnbl9kfh8');
+                            customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                            var options = new google.search.DrawOptions();
+                            options.setAutoComplete(true);
+                            options.enableSearchboxOnly("http://www.google.com/cse?cx=002885471862917445400:-ybnbl9kfh8");
+                            customSearchControl.draw('cse-search-form', options);
+                        }, true);
+                    </script>
+                </div>
+            -->
+            
+        </div>
+        <div id="menus">
+    <div id="menubar">
+        <ul id="menu">
+            <li id="menu_rulebooks"><a href="../../rulebooks/index.html">Rulebooks</a></li>
+            <li class="selected arrow" id="menu_character_options"><a href="../../classes/index.html">Character Options</a></li>
+            <li id="menu_magic"><a href="../../spells/index.html">Magic</a></li>
+            <li id="menu_bestiary"><a href="../../races/index.html">Bestiary</a></li>
+            <li id="menu_items"><a href="../../items/index.html">Items</a></li>
+            <li id="menu_"><span class="disabled" title="Not yet">My D&amp;D</span></li>
+            <li id="menu_contacts"><a href="../../contacts/index.html">Contacts</a></li>
+        </ul>
+    </div>
+    <div id="submenubar">
+        <ul id="submenu_rulebooks">
+            <li><a href="../../rulebooks/index.html">All</a></li>
+            <li><a href="../../rulebooks/editions/index.html">Editions</a></li>
+            <li><a href="../../rulebooks/core-35--1/index.html">3.5 Core</a></li>
+            <li><a href="../../rulebooks/supplementals-35--5/index.html">3.5 Supplements</a></li>
+            <li><a href="../../rulebooks/dragonlance--9/index.html">3.5 Dragonlance</a></li>
+            <li><a href="../../rulebooks/eberron-35--3/index.html">3.5 Eberron</a></li>
+            <li><a href="../../rulebooks/forgotten-realms-35--4/index.html">3.5 Forgotten Realms</a></li>
+            <li><a href="../../rules/index.html">Rules</a></li>
+        </ul>
+        <ul id="submenu_character_options" class="enabled">
+            <li><a href="../../classes/index.html">Classes</a></li>
+            <li class="selected"><a href="../index.html">Feats</a></li>
+            <li><a href="../categories/index.html">Feat Categories</a></li>
+            <li><a href="../categories/trait/index.html">Traits</a></li>
+            <li><a href="../categories/flaw/index.html">Flaws</a></li>
+            <li><a href="../../skills/index.html">Skills</a></li>
+            <li><a href="../categories/skill-trick/index.html">Skill Tricks</a></li>
+            <li><a href="../../deities/index.html">Deities</a></li>
+            <li><a href="../../languages/index.html">Languages</a></li>
+        </ul>
+        <ul id="submenu_magic">
+            <li><a href="../../spells/index.html">Spells</a></li>
+            <li><a href="../../spells/schools/index.html">Spell Schools</a></li>
+            <li><a href="../../spells/descriptors/index.html">Descriptors</a></li>
+            <li><span class="disabled" title="Not yet">Shadow Casting</span></li>
+            <li><span class="disabled" title="Not yet">Invocations</span></li>
+            <li><span class="disabled" title="Not yet">Psionics</span></li>
+            <li><span class="disabled" title="Not yet">Auras</span></li>
+            <li><span class="disabled" title="Not yet">Maneuvers</span></li>
+            <li><a href="../../spells/domains/index.html">Domains</a></li>
+        </ul>
+        <ul id="submenu_bestiary">
+            <li><a href="../../races/index.html">Races</a></li>
+            <li><a href="../../races/types/index.html">Race Types</a></li>
+            <li><a href="../../monsters/index.html">Monsters</a></li>
+            <li><span class="disabled" title="Not yet">Monstrous Types</span></li>
+            <li><span class="disabled" title="Not yet">Monstrous Traits</span></li>
+            <li><span class="disabled" title="Not yet">Templates</span></li>
+        </ul>
+        <ul id="submenu_items">
+            <li><a href="../../items/index.html">Magical</a></li>
+            <li><span class="disabled" title="Not yet">Mundane / Alchemical</span></li>
+        </ul>
+        <ul id="submenu_contacts">
+            <li><a href="../../contacts/index.html">Contact Us</a></li>
+            <li><a href="../../index.html">News</a></li>
+            <li><a href="../../contacts/staff/index.html">Staff</a></li>
+        </ul>
+    </div>
+</div>
+
+    </div>
+  <div id="site_content">
+    
+    <div id="breadcrumbs">
+      
+    &raquo; <a href="../index.html">Feats</a>
+    &raquo; <a href="index.html">Lords of Madness</a> (<a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">book</a>)
+
+    </div>
+    <div class="sidebar">
+        <form action="index.html" method="get">
+            <label for="disable_social">
+                <input id="disable_social" name="disable_social" type="checkbox" /> All social disabled (faster)
+            </label>
+        </form>
+        <script type="text/javascript">
+            var resetMenuTimer;
+            $("#menu").find("li").mouseenter(function() {
+                $('#menu').find('li').removeClass('arrow');
+                $(this).addClass('arrow');
+                $('#submenubar').find('ul').hide();
+                $('#sub' + $(this).attr('id')).show();
+            });
+            var $menus = $('#menus');
+            $menus.mouseleave(function() {
+                window.clearTimeout(resetMenuTimer);
+                resetMenuTimer = window.setTimeout(resetMenu, 500);
+            });
+            $menus.mouseenter(function () {
+                window.clearTimeout(resetMenuTimer);
+            });
+            function resetMenu() {
+                var $menu = $('#menu');
+                $menu.find('li').removeClass('arrow');
+                $menu.find('li.selected').addClass('arrow');
+                var $submenubar = $('#submenubar');
+                $submenubar.find('ul').hide();
+                $submenubar.find('ul.enabled').show();
+            }
+
+            $("#disable_social").change(function(){
+                        if (this.checked) {
+                            $.cookie("disable_social", 1, { expires : 3650, path : '/'});
+                        } else {
+                            $.cookie("disable_social", null, {path: '/'});
+                        }
+                        location.reload();
+                    }
+            );
+        </script>
+      
+      (Rank whole site)
+          <ul class="buttons">
+            <li><div class="g-plusone" data-size="tall" data-href="http://dndtools.pw/"></div>
+            <script type="text/javascript">
+              (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+              })();
+            </script></li>
+
+            <li><div class="fb-like" data-href="http://dndtools.pw/" data-send="true" data-layout="box_count" data-width="50" data-show-faces="true"></div></li>
+
+            <!-- <li><a class="FlattrButton" style="display:none;" href="http://dndtools.eu"></a>
+                <noscript><a href="http://flattr.com/thing/1021848/DnDTools" target="_blank">
+                    <img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" /></a></noscript></li> -->
+          </ul>
+      
+      
+    </div>
+    <div id="content">
+      
+      
+      
+
+<h2>Feats in Lords of Madness</h2>
+
+<div class="pagination">
+  
+  
+      <a href="index.html" class="prev">&lsaquo;&lsaquo; previous</a>
+  
+  
+    
+      
+          <a href="index.html" class="page">1</a>
+      
+    
+  
+    
+      
+          <span class="current page">2</span>
+      
+    
+  
+    
+      
+          <a href="index.html?page=3" class="page">3</a>
+      
+    
+  
+  
+      <a href="index.html?page=3" class="next">next &rsaquo;&rsaquo;</a>
+  
+  (total 41 items)
+  <form method="get" action="index.html">
+    
+    <label>Items per page:
+      <select name="page_size" onchange="this.form.submit()">
+        
+        <option value="20"
+         selected="selected">20</option>
+      
+        <option value="50"
+        >50</option>
+      
+        <option value="100"
+        >100</option>
+      
+        <option value="1000"
+        >1000</option>
+      
+    </select>
+    </label>
+  </form>
+</div>
+
+<table class="common">
+<tr>
+  <th>Feat name</th>
+  <th>Short description</th>
+  <th>Rulebook</th>
+</tr>
+
+    <tr>
+        <td><a href="inhuman-vision--1618/index.html">Inhuman Vision</a></td>
+        <td title="You possess the inhuman eyes of some strange creature. They might look segmented or larger or without pupils. You might even have eyestalks.">You possess the inhuman eyes of some strange creature. They ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="memory-eater--1919/index.html">Memory Eater</a></td>
+        <td title="An aboleth with this feat is particularly adept at extracting memories and knowledge from the bodies of those it consumes.">An aboleth with this feat is particularly adept at extracting ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="metaray--1938/index.html">Metaray</a></td>
+        <td title="A beholder with this feat can apply the effects of metamagic feats to its eye rays.">A beholder with this feat can apply the effects of ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="mindsight--1960/index.html">Mindsight</a></td>
+        <td title="A creature that has this feat possesses innate telepathic ability that allows it to precisely pinpoint other thinking beings within range of its telepathy. The creature perceives where the others are and how powerful their intellects are.">A creature that has this feat possesses innate telepathic ability ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="music-of-the-outer-spheres--2023/index.html">Music of the Outer Spheres</a></td>
+        <td title="You can use your bardic music to create discordant, insane sounds. This music is particularly effective against aberrations, and can sicken them, vitalize them, or fill them with lethargy.">You can use your bardic music to create discordant, insane ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="ocular-spell--2079/index.html">Ocular Spell</a></td>
+        <td title="Your study of the terrible powers of the beholder has given you insight into new ways to prepare and cast spells.">Your study of the terrible powers of the beholder has ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="parrying-shield--2120/index.html">Parrying Shield</a></td>
+        <td title="You have studied advanced techniques for battling foes whose attacks normally bypass armor. You use your shield to block or deflect rays and other touch attacks.">You have studied advanced techniques for battling foes whose attacks ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="powerful-bite--2220/index.html">Powerful Bite</a></td>
+        <td title="An aboleth with this feat develops jaws that are much more muscular than normal, allowing it to bite more effi ciently.">An aboleth with this feat develops jaws that are much ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="quick-recovery--2320/index.html">Quick Recovery</a></td>
+        <td title="It&#39;s hard to keep you down for long. You have a talent for shaking off effects that leave others unable to act.">It&#39;s hard to keep you down for long. You have ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="quickslime--2345/index.html">Quickslime</a></td>
+        <td title="The slime attack of an aboleth with this feat is particularly fast and diffi cult to resist.">The slime attack of an aboleth with this feat is ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="reach-bite--2388/index.html">Reach Bite</a></td>
+        <td title="An aboleth with this feat can extend its jaws and esophagus out from its body to make attacks beyond its normal reach.">An aboleth with this feat can extend its jaws and ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="scavenging-gullet--2519/index.html">Scavenging Gullet</a></td>
+        <td title="The taint of the aberration in your blood has gifted you with the ability to gain nourishment from things that others would never consider as food.">The taint of the aberration in your blood has gifted ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="skilled-telekinetic--2640/index.html">Skilled Telekinetic</a></td>
+        <td title="A creature with this feat becomes so skilled with its telekinesis ability that it can manipulate and use magic items via telekinesis.">A creature with this feat becomes so skilled with its ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="spit-poison--2737/index.html">Spit Poison</a></td>
+        <td title="A creature with this feat can spit its poison as a ranged touch attack.">A creature with this feat can spit its poison as ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="starspawn--2760/index.html">Starspawn</a></td>
+        <td title="Your abnormal body and heritage has become more pronounced. You grow membranous wings and are comfortable in extreme elevations.">Your abnormal body and heritage has become more pronounced. You ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="thicken-mucus--2903/index.html">Thicken Mucus</a></td>
+        <td title="An aboleth with this feat can produce mucus that is thicker than normal, and other creatures fi nd it diffi cult to swim through.">An aboleth with this feat can produce mucus that is ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="thrall-bred--2906/index.html">Thrall Bred</a></td>
+        <td title="You were spawned in the breeding pits of the mind fl ayers or the beholders. You were bred for unusual strength, hardiness, and loyalty to your unhuman masters, and you can now choose to bestow your loyalty on other worthy masters.">You were spawned in the breeding pits of the mind ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="toxic-mucus--2950/index.html">Toxic Mucus</a></td>
+        <td title="An aboleth with this feat can produce mucus that is poisonous to other creatures.">An aboleth with this feat can produce mucus that is ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="warped-mind--3092/index.html">Warped Mind</a></td>
+        <td title="Your tainted form has altered the physical nature of your brain, making you resistant to mental effects and more capable of unleashing the power of your mind on others.">Your tainted form has altered the physical nature of your ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+    <tr>
+        <td><a href="waterspawn--3098/index.html">Waterspawn</a></td>
+        <td title="Your abnormal body and heritage has become more pronounced. You have prominent fi ns and are supremely well adapted to the icy deeps.">Your abnormal body and heritage has become more pronounced. You ...</td>
+        <td><a href="../../rulebooks/supplementals-35--5/lords-of-madness--72/index.html">Lords of Madness</a></td>
+    </tr>
+
+</table>
+
+<div class="pagination">
+  
+  
+      <a href="index.html" class="prev">&lsaquo;&lsaquo; previous</a>
+  
+  
+    
+      
+          <a href="index.html" class="page">1</a>
+      
+    
+  
+    
+      
+          <span class="current page">2</span>
+      
+    
+  
+    
+      
+          <a href="index.html?page=3" class="page">3</a>
+      
+    
+  
+  
+      <a href="index.html?page=3" class="next">next &rsaquo;&rsaquo;</a>
+  
+  (total 41 items)
+  <form method="get" action="index.html">
+    
+    <label>Items per page:
+      <select name="page_size" onchange="this.form.submit()">
+        
+        <option value="20"
+         selected="selected">20</option>
+      
+        <option value="50"
+        >50</option>
+      
+        <option value="100"
+        >100</option>
+      
+        <option value="1000"
+        >1000</option>
+      
+    </select>
+    </label>
+  </form>
+</div>
+
+
+    </div>
+    
+        <div id="fb-comments-holder">
+          <h3>Comments on the whole site</h3>
+          <div class="fb-comments" data-href="dndtools.pw" data-num-posts="10" data-width="790"></div>
+        </div>
+    
+  </div>
+  <div id="content_footer"></div>
+  <div id="footer">
+      
+    
+  </div>
+</div>
+</body>
+</html>

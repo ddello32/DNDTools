@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".WebActivity">
+    <item android:id="@+id/action_back"
+          android:title="Back"
+          android:orderInCategory="100"
+          android:icon="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_foward"
+          android:title="Foward"
+          android:orderInCategory="100"
+          android:icon="@drawable/abc_ic_commit_search_api_mtrl_alpha"
+          app:showAsAction="ifRoom"/>
+    
+</menu>
